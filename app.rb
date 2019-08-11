@@ -9,5 +9,5 @@ class App < Sinatra::Base
   get "/info" do
     erb :bowling_alley
   end
-  
+
 end
